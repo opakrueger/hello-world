@@ -1,2 +1,6 @@
 # hello-world
-Mein erstes github Projekt
+Mein erstes GitHub Projekt
+
+Hier soll ich was reinschreiben!
+
+fertig ..
